@@ -1,0 +1,35 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bigbox{
+    display: flex;
+    background-color: black;
+    color: white; 
+    align-items: center;
+    justify-content: space-between;
+}
+.box2 a{
+    color: white;
+text-decoration: none;
+}
+    
+.box2{ margin-right: 20px;
+   
+}
+
+.box3 { background-color: gray;
+    width: 400px;
+    font-size:large;
+    margin: 0 auto;
+}
+input{
+    width: 60%;height: 20px;
+    border-radius: 5px;
+}
+.search{
+    background-color: black;color: white;
+    border-radius: 5px;
+}
+.form{
+    padding: 20px;
+}
